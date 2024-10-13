@@ -1,6 +1,8 @@
 Sentiment-Analysis-Sklearn
 Sentiment Analysis with SVM from Sklearn
 
+(Click "Open in Kaggle" in the ipynb file to fully explore the project on Kaggle, as it comes with the dataset also.)
+
 # Dataset
 - The dataset used is the "amazon_review_polarity_csv.tar.gz" file from Xiang Zhang's Google Drive folder: https://drive.google.com/drive/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M
 
